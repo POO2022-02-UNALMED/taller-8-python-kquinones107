@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "Test Contructores Herencia",
+      "name": "TestContructoresHerencia",
       "setup": "sudo -H pip3 install pytest",
       "run": "pytest testHerenciaConstructores.py",
       "input": "",
